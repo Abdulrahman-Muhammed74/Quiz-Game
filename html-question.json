@@ -1,0 +1,74 @@
+[
+  {
+    "title": "why we use <a> tag in html",
+    "answer_1": "to insert an image",
+    "answer_2": "to link  files",
+    "answer_3": "to make a break line",
+    "answer_4": "to add a link",
+    "right_answer": "to add a link"
+  },
+  {
+    "title": "How can w make a text italic",
+    "answer_1": "putting it inside <p> tag",
+    "answer_2": "putting it inside <i> tag",
+    "answer_3": "write an italic word",
+    "answer_4": "style it in css",
+    "right_answer": "putting it inside <i> tag"
+  },
+  {
+    "title": "why we use <br> tag",
+    "answer_1": "to insert an image",
+    "answer_2": "to make a horizontal line",
+    "answer_3": "to make a break line",
+    "answer_4": "to add a link",
+    "right_answer": "to make a break line"
+  },
+  {
+    "title": "How can w make a text bold",
+    "answer_1": "putting it inside <b> tag",
+    "answer_2": "write an bold word",
+    "answer_3": "putting it inside <strong> tag",
+    "answer_4": "change element color",
+    "right_answer": "putting it inside <i> tag"
+  },
+  {
+    "title": "Are there a difrrences between padding and margin",
+    "answer_1": "No ",
+    "answer_2": "Yes",
+    "answer_3": "it depends on an element",
+    "answer_4": "they are the same",
+    "right_answer": "Yes"
+  },
+  {
+    "title": "Where we can put a script tag in html ",
+    "answer_1": "On the head",
+    "answer_2": "before initializing the app",
+    "answer_3": "on the body",
+    "answer_4": "both head and body",
+    "right_answer": "both head and body"
+  },
+  {
+    "title": "Is <img> element has attribute href",
+    "answer_1": "Yes",
+    "answer_2": "No its for anchor tag",
+    "answer_3": "Answer two and four is right",
+    "answer_4": "All elemnts have this attribute",
+    "right_answer": "No its for anchor tag"
+  },
+  {
+    "title": "Is there a one way to style elements ",
+    "answer_1": "Yes it is a on way ",
+    "answer_2": "No there is only two ways",
+    "answer_3": "No there are more than on way",
+    "answer_4": "We cant style elements",
+    "right_answer": "No there are more than on way"
+  },
+  {
+    "title": "What is the difference between `==` and `===`",
+    "answer_1": "There is no difference",
+    "answer_2": "== is the abstract equality operator while === is the strict equality operator.",
+    "answer_3": "The difference only in the syntax",
+    "answer_4": "They have the same functionality",
+    "right_answer": "== is the abstract equality operator while === is the strict equality operator."
+  }
+]
